@@ -1,4 +1,4 @@
-<?php 
+<?php declare(strict_types=1);
 use PHPUnit\Framework\TestCase;
 require_once '../src/kyu-6/TowerBuilder.php';
 
